@@ -1,6 +1,6 @@
 {
   "name": "ts-rolling-window",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Computes minimum, maximum, and mean over a sliding window of numbers.",
   "type": "module",
   "main": "src/index.js",
